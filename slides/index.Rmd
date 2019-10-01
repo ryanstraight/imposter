@@ -1,6 +1,6 @@
 ---
 title: "**Owning Your Success**"
-subtitle: "<br />Battling the Imposter Phenomenon in Higher Education"
+subtitle: "<br />Battling the Impostor Phenomenon in Higher Education"
 author:
   - "Tina Rettler-Pagel"
   - "Madison College"

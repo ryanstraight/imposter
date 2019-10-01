@@ -1,4 +1,4 @@
-name: "Imposter Pheonemonon"
+name: "Impostor Pheonemonon"
 output_dir: "docs"
 include: [".nojekyll", ".gitignore", ".gitattributes", "CNAME"]
 navbar:
@@ -31,7 +31,7 @@ output:
     latex_engine: lualatex
 params:
   ## Use params inline like this: `r params$classname`
-  workshop: "Owning Your Success: Battling The Imposter Phenomenon in Higher Education"
+  workshop: "Owning Your Success: Battling The Impostor Phenomenon in Higher Education"
   date: "Friday, November 22nd"
   time: "9:45am to 10:30am"
   location: "Asia 3"
