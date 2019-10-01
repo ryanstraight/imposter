@@ -2,7 +2,7 @@ name: "Imposter Pheonemonon"
 output_dir: "docs"
 include: [".nojekyll", ".gitignore", ".gitattributes", "CNAME"]
 navbar:
-  title: "My Website"
+  title: "Owning Your Success"
   left:
     - text: "Home"
       href: index.html
